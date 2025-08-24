@@ -1,6 +1,6 @@
-# M2Lines Coding Assignment
+# M2LInES Coding Assignment
 
-This repository contains my completed submission for the **M2Lines Student Assistant Coding Assignment**.
+This repository contains my completed submission for the **M2LInES Student Assistant Coding Assignment**.
 
 ## 📂 File
 - `M2LInES_Coding_Assignment-Vedant Jagtap.ipynb` – Completed notebook submission.
