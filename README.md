@@ -7,4 +7,4 @@ This repository contains my completed submission for the **M2LInES Student Assis
 
 ## 🙋 Author
 **Vedant Jagtap**  
-Applied for Student Assistant position (starting September 2, 2025)
+Applied for Student Assistant position (starting September 2, 2025 and 20 hours/week)
